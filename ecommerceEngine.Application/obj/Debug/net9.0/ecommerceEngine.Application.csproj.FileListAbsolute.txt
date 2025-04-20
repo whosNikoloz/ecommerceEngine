@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerceEngine.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerceEngine.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerceEngine.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerceEngine.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\bin\Debug\net9.0\ecommerceEngine.Application.deps.json
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\bin\Debug\net9.0\ecommerceEngine.Application.dll
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\bin\Debug\net9.0\ecommerceEngine.Application.pdb
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\bin\Debug\net9.0\ecommerceEngine.Domain.dll
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\bin\Debug\net9.0\ecommerceEngine.Domain.pdb
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerceEngine.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerc.59AA6A93.Up2Date
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerceEngine.Application.dll
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\refint\ecommerceEngine.Application.dll
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ecommerceEngine.Application.pdb
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Application\obj\Debug\net9.0\ref\ecommerceEngine.Application.dll

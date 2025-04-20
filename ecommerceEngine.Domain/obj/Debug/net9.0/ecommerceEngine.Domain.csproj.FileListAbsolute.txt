@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\ecommerceEngine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\ecommerceEngine.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\ecommerceEngine.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\ecommerceEngine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\bin\Debug\net9.0\ecommerceEngine.Domain.deps.json
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\bin\Debug\net9.0\ecommerceEngine.Domain.dll
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\bin\Debug\net9.0\ecommerceEngine.Domain.pdb
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\ecommerceEngine.Domain.dll
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\refint\ecommerceEngine.Domain.dll
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\ecommerceEngine.Domain.pdb
+C:\Users\User\Desktop\Projects\ECommerceFullStack\ecommerceEngine\ecommerceEngine.Domain\obj\Debug\net9.0\ref\ecommerceEngine.Domain.dll
